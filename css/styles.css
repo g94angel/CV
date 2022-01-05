@@ -1,0 +1,27 @@
+body {
+  background-color: #FBF3E4;
+  color: #0F2C67;
+  font-family: 'Montserrat', sans-serif;
+
+}
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  background-color: #FBF3E4;
+  width: 10%;
+}
+h1 {
+  color: #0F2C67;
+}
+h3 {
+  color: #0F2C67;
+}
+
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.title {
+  text-align: center;
+}
